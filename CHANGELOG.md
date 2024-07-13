@@ -1,3 +1,26 @@
+## 0.6.1 (2024-07-13)
+
+### Fix
+
+- Corrge pipeline
+
+## 0.6.0 (2024-07-13)
+
+### BREAKING CHANGE
+
+- Sed ut perspiciatis unde omnis
+
+### Feat
+
+- **Sed-ut-perspiciatis**: Sed ut perspiciatis unde omnis iste natus error sit voluptatem
+
+## 0.5.0 (2024-07-13)
+
+### Feat
+
+- Feature two
+- Feature one
+
 ## 0.4.0 (2024-07-13)
 
 ### Feat
