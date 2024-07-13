@@ -1,3 +1,17 @@
+## 1.0.0 (2024-07-13)
+
+### BREAKING CHANGE
+
+- v1
+
+### Feat
+
+- **v1**: v1
+
+### Fix
+
+- Corrige verso
+
 ## 0.7.0 (2024-07-13)
 
 ### BREAKING CHANGE
