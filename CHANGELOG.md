@@ -1,3 +1,9 @@
+## 0.6.1 (2024-07-13)
+
+### Fix
+
+- Corrge pipeline
+
 ## 0.6.0 (2024-07-13)
 
 ### BREAKING CHANGE
