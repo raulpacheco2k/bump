@@ -1,3 +1,9 @@
+## 2.0.0 (2024-07-14)
+
+### Feat
+
+- send an email to the customer when a product is shipped
+
 ## 1.0.0 (2024-07-13)
 
 ### BREAKING CHANGE
