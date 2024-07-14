@@ -1,3 +1,10 @@
+## 2.1.0 (2024-07-14)
+
+### Feat
+
+- adiciona exclamação no olá para a Gabrieli
+- **q**: q
+
 ## 2.0.0 (2024-07-14)
 
 ### Feat
